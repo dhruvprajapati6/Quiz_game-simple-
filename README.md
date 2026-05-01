@@ -60,7 +60,7 @@
 ---
 
 ## ⭐ Support
-
+<br>
 <p align="center">
   ⭐ If you like this project, give it a star on GitHub!
 </p>
