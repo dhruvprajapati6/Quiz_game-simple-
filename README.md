@@ -41,11 +41,11 @@
 ---
 ## ✨ Features
 
-* 🧠 Multiple Questions
-* 🎯 Score Tracking System
-* ⚡ Instant Answer Feedback
-* 🔁 Loop-based Question Flow
-* 🧼 Clean & Simple Code
+* 🧠 Multiple Questions<br>
+* 🎯 Score Tracking System<br>
+* ⚡ Instant Answer Feedback<br>
+* 🔁 Loop-based Question Flow<br>
+* 🧼 Clean & Simple Code<br>
 ---
 
 ---
