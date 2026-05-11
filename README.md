@@ -1,4 +1,4 @@
-# 🧠🚀 Python Quiz Game
+# 🧠🚀 Python Quiz Game <br><br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEB3B,100:FFC107&height=220&section=header&text=Quiz%20Game&fontSize=45&fontColor=000000&animation=fadeIn"/>
