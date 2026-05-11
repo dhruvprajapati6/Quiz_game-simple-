@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 About Project
+## 🌟 About Project <br><br>
 
 > 💡 A fun and interactive **Quiz Game** built using Python.
 > Test your knowledge, answer questions, and track your score in real-time.
