@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00B4DB,25:0083B0,50:6A11CB,75:2575FC,100:00F260&text=🧠%20Python%20Quiz%20Game&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Interactive%20Python%20CLI%20Project%20%7C%20Fun%20•%20Smart%20•%20Challenging&descAlignY=58&descSize=18"
+    width="100%"
+  />
+</p>
+
 # 🧠🚀 Python Quiz Game
 
 <p align="center">
